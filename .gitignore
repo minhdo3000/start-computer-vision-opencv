@@ -1,3 +1,4 @@
 load-display-image/build
 play-video-file/build
-
+save-video-file/build
+save-video-file/out_vtest.avi
