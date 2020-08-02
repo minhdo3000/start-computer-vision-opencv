@@ -1,3 +1,11 @@
+/* 
+Author: domi-lab
+
+Function:
+- Load image from image file (.jpg, .png ...)
+- Display image on screen
+*/
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
