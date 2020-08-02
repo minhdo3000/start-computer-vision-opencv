@@ -13,7 +13,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd plot_live_data
+- cd load-display-image
 - run: ./run_app.sh
 
 

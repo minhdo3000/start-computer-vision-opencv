@@ -12,7 +12,7 @@ Requirements:
 
 How to run:
 - Open linux terminal: Ctr + Alt + T 
-- cd copy_pixels_opencv
+- cd copy_pixels
 - run: run_app.sh
 
 
