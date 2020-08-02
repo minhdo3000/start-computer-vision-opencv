@@ -15,7 +15,7 @@ using namespace std;
 int main(int argc, char *argv[])
 {
 
-    VideoCapture cap("../vtest.avi"); //open the video file for reading
+    VideoCapture cap("../../data/vtest.avi"); //open the video file for reading
 
     if (cap.isOpened() == false) // if not success, exit program
     {

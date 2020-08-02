@@ -1,9 +1,8 @@
 load-display-image/build
 play-video-file/build
-
 save-video-file/build
-save-video-file/out_vtest.avi
-
 save-image-file/build
-save-image-file/out_test.png
+save-image-file/build
+rotate-video/build
+
 

@@ -1,4 +1,12 @@
 
+/* 
+Author: domi-lab
+
+Function:
+- Load video file (.mp4, .avi ...)
+- Display image on screen
+- Save video file
+*/
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
@@ -8,7 +16,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    VideoCapture cap("../vtest.avi"); //Open the default video file
+    VideoCapture cap("../../data/vtest.avi"); //Open the default video file
 
     if (cap.isOpened() == false) // if not success, exit program
     {
@@ -49,16 +57,6 @@ int main(int argc, char *argv[])
             cin.get(); //Wait for any key press
             break;
         }
-
-        /*
-        Make changes to the frame as necessary
-        e.g.  
-         1. Change brightness/contrast of the image
-         2. Smooth/Blur image
-         3. Crop the image
-         4. Rotate the image
-         5. Draw shapes on the image
-        */
 
         oVideoWriter.write(frame); //write the video frame to the file
 
