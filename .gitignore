@@ -4,5 +4,6 @@ save-video-file/build
 save-image-file/build
 save-image-file/build
 rotate-video/build
+copy-pixels/build
 
 
