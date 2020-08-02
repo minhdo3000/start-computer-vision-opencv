@@ -1,5 +1,6 @@
 
 Author: domi-lab
+
 Function:
 - Load image from image file (.jpg, .png ...)
 - Display image on screen
