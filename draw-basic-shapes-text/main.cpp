@@ -66,6 +66,15 @@ int main(int argc, char **argv)
     cv::putText(image, "FONT_HERSHEY_COMPLEX_SMALL", cv::Point(0, 550), cv::FONT_HERSHEY_COMPLEX_SMALL, 1, cv::Scalar(255, 0, 0), 2);
     cv::putText(image, "FONT_HERSHEY_DUPLEX", cv::Point(0, 600), cv::FONT_HERSHEY_DUPLEX, 1, cv::Scalar(255, 0, 0), 2);
 
+    bool isSuccess = imwrite("../out_draw_shapes_text.png", image); //write the image to a file as JPEG
+    //bool isSuccess = imwrite("D:/MyImage.png", image); //write the image to a file as PNG
+    if (isSuccess == false)
+    {
+        cout << "Failed to save the image" << endl;
+        cin.get(); //wait for a key press
+        return -1;
+    }
+
     String windowName = "draw basic shape & text"; //Name of the window
 
     namedWindow(windowName); // Create a window
