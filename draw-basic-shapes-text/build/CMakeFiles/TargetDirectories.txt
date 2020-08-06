@@ -1,0 +1,3 @@
+/home/do/workspace/domi-lab/start-computer-vision-opencv/draw-basic-shapes-text/build/CMakeFiles/edit_cache.dir
+/home/do/workspace/domi-lab/start-computer-vision-opencv/draw-basic-shapes-text/build/CMakeFiles/rebuild_cache.dir
+/home/do/workspace/domi-lab/start-computer-vision-opencv/draw-basic-shapes-text/build/CMakeFiles/run_app.dir
