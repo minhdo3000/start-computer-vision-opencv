@@ -14,7 +14,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd draw-shapes-text
+- cd draw-basic-shapes-text
 - run: ./run_app.sh
 
 
