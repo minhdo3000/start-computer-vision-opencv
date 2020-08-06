@@ -6,5 +6,6 @@ save-image-file/build
 rotate-video/build
 copy-pixels/build
 draw-basic-shapes-text/build
+draw-transparent-shapes-text/build
 
 
