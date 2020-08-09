@@ -16,5 +16,6 @@ How to run application:
 - Open linux terminal: Ctr + Alt + T 
 - cd 6.draw-basic-shapes-text
 - run: ./run_app.sh
+- output: https://www.youtube.com/watch?v=hR_EJn5ZeSg&list=PLdYSC_TEBwG5oJu9LR9-ewMnxQiBbtHrf&index=2
 
 
