@@ -14,7 +14,7 @@ Requirements:
 How to run application:
 
 - Open linux terminal: Ctr + Alt + T 
-- cd 8.draw-tramsparent-shapes-text
+- cd 7.draw-transparent-shapes-text
 - run: ./run_app.sh
 
 
