@@ -10,7 +10,8 @@ Requirements:
 - OpenCV (tested with version 3.4.6)
 - Cmake
 
-How to run:
+How to run application:
+
 - Open linux terminal: Ctr + Alt + T 
 - cd 5.copy_pixels
 - run: run_app.sh

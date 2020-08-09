@@ -10,8 +10,8 @@ Requirements:
 - OpenCV (tested with version 3.4.6)
 - Cmake
 
-How to run:
-Generate data:
+How to run application:
+
 - Open linux terminal: Ctr + Alt + T 
 - cd 4.save-video-file
 - run: ./run_app.sh
