@@ -12,7 +12,7 @@ Requirements:
 
 How to run:
 - Open linux terminal: Ctr + Alt + T 
-- cd copy_pixels
+- cd 5.copy_pixels
 - run: run_app.sh
 
 

@@ -2,8 +2,7 @@
 Author: domi-lab
 
 Function:
-- Create black image
-- Draw basic shapes and text
+- Read frames from video file (.mp4, .avi ...)
 - Display image on screen
 
 Requirements:
@@ -14,7 +13,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd draw-basic-shapes-text
+- cd 2.play-video-file
 - run: ./run_app.sh
 
 

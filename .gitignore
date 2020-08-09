@@ -1,13 +1,12 @@
-load-display-image/build
-play-video-file/build
-save-video-file/build
-save-image-file/build
-save-image-file/build
-rotate-video/build
-copy-pixels/build
-draw-basic-shapes-text/build
-draw-transparent-shapes-text/build
-detect-mouse-click-move/build
+1.load-display-image/build
+2.play-video-file/build
+3.save-image-file/build
+4.save-video-file/build
+5.copy-pixels/build
+6.draw-basic-shapes-text/build
+7.draw-transparent-shapes-text/build
+8.detect-mouse-click-move/build
+9.rotate-video/build
 
 
 

@@ -2,8 +2,9 @@
 Author: domi-lab
 
 Function:
-- Read frames from video file (.mp4, .avi ...)
-- Save frames to video file
+- Create black image
+- Draw basic shapes and text
+- Display image on screen
 
 Requirements:
 - Linux OS
@@ -13,7 +14,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd rotate-video
+- cd 6.draw-basic-shapes-text
 - run: ./run_app.sh
 
 

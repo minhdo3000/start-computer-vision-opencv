@@ -16,7 +16,7 @@ How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
 - Clone project: git clone https://github.com/domi-lab/start-computer-vision-opencv.git
-- cd detect-mouse-click-move
+- cd 7.detect-mouse-click-move
 - run: ./run_app.sh
 
 

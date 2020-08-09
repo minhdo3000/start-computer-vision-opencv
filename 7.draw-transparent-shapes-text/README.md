@@ -14,7 +14,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd draw-tramsparent-shapes-text
+- cd 8.draw-tramsparent-shapes-text
 - run: ./run_app.sh
 
 

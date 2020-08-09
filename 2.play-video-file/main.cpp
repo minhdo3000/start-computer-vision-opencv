@@ -29,8 +29,6 @@ int main(int argc, char *argv[])
 
     String window_name = "output";
 
-    namedWindow(window_name, WINDOW_NORMAL); //create a window
-
     while (true)
     {
         Mat frame;

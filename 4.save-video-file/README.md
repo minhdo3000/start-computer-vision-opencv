@@ -3,7 +3,7 @@ Author: domi-lab
 
 Function:
 - Read frames from video file (.mp4, .avi ...)
-- Display image on screen
+- Save frames to video file
 
 Requirements:
 - Linux OS
@@ -13,7 +13,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd play-video-file
+- cd 4.save-video-file
 - run: ./run_app.sh
 
 

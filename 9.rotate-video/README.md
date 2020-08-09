@@ -2,8 +2,8 @@
 Author: domi-lab
 
 Function:
-- Load image from image file (.jpg, .png ...)
-- Display image on screen
+- Read frames from video file (.mp4, .avi ...)
+- Save frames to video file
 
 Requirements:
 - Linux OS
@@ -13,7 +13,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd load-display-image
+- cd 9.rotate-video
 - run: ./run_app.sh
 
 

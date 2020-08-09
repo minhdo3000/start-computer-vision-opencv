@@ -15,7 +15,7 @@ using namespace std;
 int main(int argc, char **argv)
 {
 
-    Mat image = imread("../test.png"); // Read the image file
+    Mat image = imread("../../data/test.png"); // Read the image file
 
     if (image.empty()) // Check for failure
     {

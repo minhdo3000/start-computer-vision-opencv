@@ -2,8 +2,9 @@
 Author: domi-lab
 
 Function:
-- Read frames from video file (.mp4, .avi ...)
-- Save frames to video file
+- Load image file (.jpg, .png ...)
+- Write image to file
+- Display image on screen
 
 Requirements:
 - Linux OS
@@ -13,7 +14,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd save-video-file
+- cd 3.save_image_file
 - run: ./run_app.sh
 
 

@@ -2,8 +2,7 @@
 Author: domi-lab
 
 Function:
-- Load image file (.jpg, .png ...)
-- Write image to file
+- Load image from image file (.jpg, .png ...)
 - Display image on screen
 
 Requirements:
@@ -14,7 +13,7 @@ Requirements:
 How to run:
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd save_image_file
+- cd 1.load-display-image
 - run: ./run_app.sh
 
 
