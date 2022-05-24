@@ -1,5 +1,5 @@
 
-Author: domi-lab
+Author: Minh Do
 
 Function:
 - Reduce half of image size by removing a pixel between two other ones.
