@@ -1,5 +1,5 @@
 
-Author: domi-lab
+Author: Minh Do
 
 Function:
 - Read frames from video file (.mp4, .avi ...)
