@@ -1,5 +1,5 @@
 
-Author: domi-lab
+Author: Minh Do
 
 Function:
 - Load image file (.jpg, .png ...)
